@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc4171db-1b0e-40d0-9678-1a868667e270" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Codewar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1/16+18=214.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2/Mr Martingale.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3/Simple equation reversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/Testing1-2-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7/Disemvowel Trolls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/List Filtering.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/Bases Everywhere.py" beforeDir="false" afterPath="$PROJECT_DIR$/4/Bases Everywhere.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,31 +18,31 @@
     <session id="2030839328">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.13" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="4" />
+          <entry key="py" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="4" />
+          <entry key="Python" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="4102" />
+          <entry key="py" value="8324" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="4102" />
+          <entry key="Python" value="8324" />
         </counts>
       </usages-collector>
     </session>
@@ -53,35 +50,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1/16+18=214.py">
+        <entry file="file://$PROJECT_DIR$/5/TurkishNumbers(0-99).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+            <state relative-caret-position="620">
+              <caret line="81" selection-start-line="81" selection-end-line="83" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6/Testing1-2-3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="372">
+              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
               <folding>
-                <element signature="e#0#35#0" expanded="true" />
-                <marker date="1598867713133" expanded="true" signature="2151:2152" ph="..." />
+                <marker date="1599138501699" expanded="true" signature="630:808" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2/Mr Martingale.py">
+        <entry file="file://$PROJECT_DIR$/7/Disemvowel Trolls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+            <state relative-caret-position="-2">
+              <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3/Simple equation reversal.py">
+        <entry file="file://$PROJECT_DIR$/8/List Filtering.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
-              <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-              <folding>
-                <marker date="1598893062133" expanded="true" signature="596:601" ph="..." />
-              </folding>
+              <caret line="18" column="31" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -110,12 +112,17 @@
         <option value="$PROJECT_DIR$/2/Mr Martingale.py" />
         <option value="$PROJECT_DIR$/1/16+18=214.py" />
         <option value="$PROJECT_DIR$/3/Simple equation reversal.py" />
+        <option value="$PROJECT_DIR$/4/Bases Everywhere.py" />
+        <option value="$PROJECT_DIR$/5/Turkish Numbers, 0-99.py" />
+        <option value="$PROJECT_DIR$/7/Disemvowel Trolls.py" />
+        <option value="$PROJECT_DIR$/6/Testing1-2-3.py" />
+        <option value="$PROJECT_DIR$/8/List Filtering.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-309" />
-    <option name="y" value="145" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -133,6 +140,46 @@
               <item name="Codewar" type="b2602c69:ProjectViewProjectNode" />
               <item name="Codewar" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Codewar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codewar" type="462c0819:PsiDirectoryNode" />
+              <item name="1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Codewar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codewar" type="462c0819:PsiDirectoryNode" />
+              <item name="2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Codewar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codewar" type="462c0819:PsiDirectoryNode" />
+              <item name="3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Codewar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codewar" type="462c0819:PsiDirectoryNode" />
+              <item name="4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Codewar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codewar" type="462c0819:PsiDirectoryNode" />
+              <item name="5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Codewar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codewar" type="462c0819:PsiDirectoryNode" />
+              <item name="6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Codewar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codewar" type="462c0819:PsiDirectoryNode" />
+              <item name="7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Codewar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codewar" type="462c0819:PsiDirectoryNode" />
+              <item name="8" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -141,7 +188,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -160,8 +207,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Simple equation reversal">
-    <configuration name="16+18=214" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.List Filtering">
+    <configuration name="Bases Everywhere" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Codewar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,11 +216,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1/16+18=214.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4/Bases Everywhere.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,7 +229,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Mr Martingale" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Disemvowel Trolls" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Codewar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,11 +237,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2/Mr Martingale.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7/Disemvowel Trolls.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,7 +250,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Simple equation reversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="List Filtering" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Codewar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -211,11 +258,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3/Simple equation reversal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8/List Filtering.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Testing1-2-3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Codewar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6/Testing1-2-3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Turkish Numbers, 0-99" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Codewar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5/Turkish Numbers, 0-99.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,15 +314,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.16+18=214" />
-      <item itemvalue="Python.Mr Martingale" />
-      <item itemvalue="Python.Simple equation reversal" />
+      <item itemvalue="Python.Bases Everywhere" />
+      <item itemvalue="Python.Turkish Numbers, 0-99" />
+      <item itemvalue="Python.Testing1-2-3" />
+      <item itemvalue="Python.Disemvowel Trolls" />
+      <item itemvalue="Python.List Filtering" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Simple equation reversal" />
-        <item itemvalue="Python.Mr Martingale" />
-        <item itemvalue="Python.16+18=214" />
+        <item itemvalue="Python.List Filtering" />
+        <item itemvalue="Python.Testing1-2-3" />
+        <item itemvalue="Python.Disemvowel Trolls" />
+        <item itemvalue="Python.Turkish Numbers, 0-99" />
+        <item itemvalue="Python.Bases Everywhere" />
       </list>
     </recent_temporary>
   </component>
@@ -252,13 +345,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38084632" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38084632" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -277,31 +371,69 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/2.py" />
-    <entry file="file://$PROJECT_DIR$/2/Mr Martingale.py">
+    <entry file="file://$PROJECT_DIR$/5/Turkish Numbers, 0-99.py" />
+    <entry file="file://$PROJECT_DIR$/6/Testing1-2-3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        <state relative-caret-position="372">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding>
+            <marker date="1599138501699" expanded="true" signature="630:808" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1/16+18=214.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        <state relative-caret-position="308">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="13" selection-end-column="27" />
           <folding>
-            <element signature="e#0#35#0" expanded="true" />
             <marker date="1598867713133" expanded="true" signature="2151:2152" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2/Mr Martingale.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/3/Simple equation reversal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        <state relative-caret-position="446">
+          <caret line="24" selection-start-line="24" selection-end-line="26" selection-end-column="16" />
           <folding>
-            <marker date="1598893062133" expanded="true" signature="596:601" ph="..." />
+            <marker date="1598941424010" expanded="true" signature="596:601" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/Bases Everywhere.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/TurkishNumbers(0-99).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="81" selection-start-line="81" selection-end-line="83" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7/Disemvowel Trolls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8/List Filtering.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="31" />
         </state>
       </provider>
     </entry>

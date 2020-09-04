@@ -23,12 +23,13 @@ def base_finder(seq):
         seq[i] =int(seq[i])
     new=sorted(seq)
     print(new)
-    for j in range(len(new)):
-        # print(new[j]%10)
-        base.append(new[j]%10)
-    basenumber = max(base)+1
-    print(max(base)+1)
-    return basenumber
+    # for j in range(len(new)):
+    #     # print(new[j]%10)
+    #     base.append(new[j]%10)
+    # basenumber = max(base)+1
+    # print(max(base)+1)
+    # return basenumber
 if __name__=='__main__':
-    equence =[50, 51, 52, 53, 54, 55, 56, 60, 61, 62]
+    equence =[1000001111, 1000010000, 1000010001, 1000010010, 1000010011, 1000010100, 1000010101, 1000010110, 1000010111, 1000011000]
+
     base_finder(equence)
