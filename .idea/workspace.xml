@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc4171db-1b0e-40d0-9678-1a868667e270" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/10/Split-By-Value.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11/Word-values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12/Error correction #1 - Hamming Code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/Format a string of names like 'Bart, Lisa &amp; Maggie'..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/Playing with digits.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,40 +25,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="15" />
+          <entry key="py" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="15" />
+          <entry key="Python" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="11919" />
+          <entry key="py" value="12734" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="11919" />
+          <entry key="Python" value="12734" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/9/Where_my_anagrams_at.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="41" selection-start-line="41" selection-end-line="41" selection-end-column="24" />
-              <folding>
-                <marker date="1599231830859" expanded="true" signature="774:775" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/10/Split-By-Value.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -76,7 +63,7 @@
         <entry file="file://$PROJECT_DIR$/11/Word-values.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="392">
-              <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+              <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
               <folding>
                 <marker date="1599333191375" expanded="true" signature="1804:1807" ph="..." />
               </folding>
@@ -84,11 +71,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/12/Error correction #1 - Hamming Code.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="107" column="54" lean-forward="true" selection-start-line="107" selection-start-column="54" selection-end-line="107" selection-end-column="54" />
+            <state relative-caret-position="449">
+              <caret line="152" selection-start-line="152" selection-end-line="152" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/13/Format a string of names like 'Bart, Lisa &amp; Maggie'..py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="57" selection-start-line="57" selection-end-line="57" selection-end-column="24" />
+              <folding>
+                <marker date="1599505958398" expanded="true" signature="879:1711" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/14/Playing with digits.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+              <folding>
+                <marker date="1599508311174" expanded="true" signature="31:303" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -130,12 +141,14 @@
         <option value="$PROJECT_DIR$/10/Split-By-Value.py" />
         <option value="$PROJECT_DIR$/11/Word-values.py" />
         <option value="$PROJECT_DIR$/12/Error correction #1 - Hamming Code.py" />
+        <option value="$PROJECT_DIR$/13/Format a string of names like 'Bart, Lisa &amp; Maggie'..py" />
+        <option value="$PROJECT_DIR$/14/Playing with digits.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="596" />
-    <option name="y" value="217" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -180,7 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Error correction #1 - Hamming Code">
+  <component name="RunManager" selected="Python.Playing with digits">
     <configuration name="Error correction #1 - Hamming Code" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Codewar" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -202,7 +215,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="List Filtering" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Format a string of names like 'Bart, Lisa &amp; Maggie'." type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Codewar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,11 +223,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8/List Filtering.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13/Format a string of names like 'Bart, Lisa &amp; Maggie'..py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Playing with digits" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Codewar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14/Playing with digits.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -236,27 +270,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10/Split-By-Value.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Where_my_anagrams_at" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Codewar" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9/Where_my_anagrams_at.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,19 +300,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.List Filtering" />
-      <item itemvalue="Python.Where_my_anagrams_at" />
       <item itemvalue="Python.Split-By-Value" />
       <item itemvalue="Python.Word-values" />
       <item itemvalue="Python.Error correction #1 - Hamming Code" />
+      <item itemvalue="Python.Format a string of names like 'Bart, Lisa &amp; Maggie'." />
+      <item itemvalue="Python.Playing with digits" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Playing with digits" />
+        <item itemvalue="Python.Format a string of names like 'Bart, Lisa &amp; Maggie'." />
         <item itemvalue="Python.Error correction #1 - Hamming Code" />
         <item itemvalue="Python.Word-values" />
         <item itemvalue="Python.Split-By-Value" />
-        <item itemvalue="Python.Where_my_anagrams_at" />
-        <item itemvalue="Python.List Filtering" />
       </list>
     </recent_temporary>
   </component>
@@ -325,7 +338,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.0623608" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.56792873" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -379,16 +392,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10/Split-By-Value.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="32" />
-          <folding>
-            <marker date="1599329213869" expanded="true" signature="647:1031" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Program Files/Python36/Lib/string.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -420,20 +423,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/9/Where_my_anagrams_at.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="41" selection-start-line="41" selection-end-line="41" selection-end-column="24" />
-          <folding>
-            <marker date="1599231830859" expanded="true" signature="774:775" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/11/Word-values.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="392">
-          <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
           <folding>
             <marker date="1599333191375" expanded="true" signature="1804:1807" ph="..." />
           </folding>
@@ -442,8 +435,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/12/Error correction #1 - Hamming Code.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="107" column="54" lean-forward="true" selection-start-line="107" selection-start-column="54" selection-end-line="107" selection-end-column="54" />
+        <state relative-caret-position="449">
+          <caret line="152" selection-start-line="152" selection-end-line="152" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9/Where_my_anagrams_at.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="41" selection-start-line="41" selection-end-line="41" selection-end-column="24" />
+          <folding>
+            <marker date="1599231830859" expanded="true" signature="774:775" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10/Split-By-Value.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="32" />
+          <folding>
+            <marker date="1599329213869" expanded="true" signature="647:1031" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13/Format a string of names like 'Bart, Lisa &amp; Maggie'..py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="57" selection-start-line="57" selection-end-line="57" selection-end-column="24" />
+          <folding>
+            <marker date="1599505958398" expanded="true" signature="879:1711" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14/Playing with digits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <marker date="1599508311174" expanded="true" signature="31:303" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
