@@ -19,7 +19,7 @@
     Note: n and p will always be given as strictly positive integers.
 
     https://www.codewars.com/kata/5552101f47fc5178b1000050
-    
+
 """
 
 def dig_pow(n, p):
