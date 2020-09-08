@@ -35,18 +35,6 @@ def order(sentence):
     print(TOT)
     return " ".join(TOT)
 
-
-def order(s):
-    z = []
-    for i in range(1, 10):
-
-        for j in list(s.split()):
-            if str(i) in j:
-                z.append(j)
-    print(z)
-    return z
-
-
 if __name__ == '__main__':
     input = "4of Fo1r pe70ople g3ood th5e the2"
     binary = order(input)
