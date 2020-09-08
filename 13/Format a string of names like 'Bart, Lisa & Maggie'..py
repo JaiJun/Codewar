@@ -26,6 +26,8 @@
                 return names[0]['name']
             else:
                 return ''
+
+        https://www.codewars.com/kata/53368a47e38700bd8300030d
 """
 
 def namelist(names):
