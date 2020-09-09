@@ -27,7 +27,10 @@
                 if idx == -1: return -1
             return idx
 
-    https://www.codewars.com/kata/5b1d1812b6989d61bd00004f/solutions/python
+    https://www.codewars.com/kata/5b1d1812b6989d61bd00004f
+
+    Reference:
+        https://www.includehelp.com/python/find-all-the-indexes-of-all-the-occurrences-of-a-word-in-a-string.aspx
 """
 def find_nth_occurrence(substring, string, occurrence=1):
     index = 0

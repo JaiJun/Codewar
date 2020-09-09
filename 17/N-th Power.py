@@ -18,8 +18,7 @@
 
     https://www.codewars.com/kata/57d814e4950d8489720008db/solutions/python
 
-    Reference:
-        https://www.includehelp.com/python/find-all-the-indexes-of-all-the-occurrences-of-a-word-in-a-string.aspx
+
 """
 
 
