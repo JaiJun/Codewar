@@ -1,5 +1,5 @@
 # Codewar
-![](https://github.com/ChiaChunWeng/Codewar/blob/master/img/Honor_Level.PNG)
+![image](img/Honor_Level.png)
 
 Codewar-練習題目與解答
 
