@@ -11,15 +11,48 @@
 
          'my number is 0208-533-2325' becomes 'myn umb er is02085332325'
 
-    <No Complete>
-"""
+    Key word-isalnum()、lstrip()、f-string
 
+    I think best solution:
+
+        def vowel_start(st):
+            rst = ''
+            for e in st:
+                if not e.isalnum():
+                    continue
+                e = e.lower()
+                if e in 'aeiou':
+                    rst += f' {e}'
+                else:
+                    rst += e
+            return rst.lstrip()
+
+"""
 import re
 def vowel_start(st):
-    pass
+    Result = []
+    index = []
+    st =re.sub('[^A-Za-z0-9]+', '', st).lower()
+    print(st)
+    for ele in range(0, len(st)):
+        if st[ele] in "aeiou":
+            index.append(ele)
+            print(st[ele], ele)
 
-
+    i =0
+    for j in range(0, len(index), 1):
+        print("Now>", (i, index[j]))
+        if i==0 and index[j] ==0:
+            print("None!")
+        else:
+            Result.append(st[i:index[j]])
+            i = index[j]
+            print(i)
+    Result.append(st[i:])
+    print(Result)
+    Dividestr = " ".join(Result)
+    return Dividestr
 
 if __name__ == '__main__':
-    input="my number is 0208-533-2325"
+    input="oranges, apples, melon, pineapple"
     vowel_start(input)

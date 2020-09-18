@@ -23,7 +23,7 @@
     https://www.codewars.com/kata/57fd696e26b06857eb0011e7/python
 """
 def dative(word):
-    Resutl =""
+    Result =""
     frontvowel = ["e", "é", "i", "í", "ö", "ő", "ü", "ű"]
     backvowel =["a", "á", "o", "ó", "u", "ú"]
     print(word)
