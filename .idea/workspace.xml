@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc4171db-1b0e-40d0-9678-1a868667e270" name="Default Changelist" comment="" />
+    <list default="true" id="dc4171db-1b0e-40d0-9678-1a868667e270" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/7 kyu/17/Numbers in strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 kyu/18/Write out expression!.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 kyu/2/The Hashtag Generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/2/The Hashtag Generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7 kyu/15/Start with a Vowel.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu/15/Start with a Vowel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7 kyu/16/Simple remove duplicates.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu/16/Simple remove duplicates.py" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,23 +26,73 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="1" />
+          <entry key="py" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="1" />
+          <entry key="Python" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="2307" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="2307" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/7 kyu/16/Simple remove duplicates.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+            <state relative-caret-position="420">
+              <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6 kyu/9/Hungarian Vowel Harmony (harder).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-420" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7 kyu/17/Numbers in strings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="20" />
+              <folding>
+                <marker date="1600511167216" expanded="true" signature="528:534" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7 kyu/18/Write out expression!.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="490">
+              <caret line="38" column="65" selection-start-line="38" selection-start-column="65" selection-end-line="38" selection-end-column="65" />
+              <folding>
+                <marker date="1600522436021" expanded="true" signature="1983:1989" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/5 kyu/2/The Hashtag Generator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="672">
+              <caret line="24" column="65" lean-forward="true" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -51,6 +108,17 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/7 kyu/17/Numbers in strings.py" />
+        <option value="$PROJECT_DIR$/7 kyu/16/Simple remove duplicates.py" />
+        <option value="$PROJECT_DIR$/7 kyu/15/Start with a Vowel.py" />
+        <option value="$PROJECT_DIR$/7 kyu/18/Write out expression!.py" />
+        <option value="$PROJECT_DIR$/5 kyu/2/The Hashtag Generator.py" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
@@ -75,13 +143,13 @@
             <path>
               <item name="Codewar" type="b2602c69:ProjectViewProjectNode" />
               <item name="Codewar" type="462c0819:PsiDirectoryNode" />
-              <item name="7 kyu" type="462c0819:PsiDirectoryNode" />
+              <item name="5 kyu" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Codewar" type="b2602c69:ProjectViewProjectNode" />
               <item name="Codewar" type="462c0819:PsiDirectoryNode" />
-              <item name="7 kyu" type="462c0819:PsiDirectoryNode" />
-              <item name="16" type="462c0819:PsiDirectoryNode" />
+              <item name="5 kyu" type="462c0819:PsiDirectoryNode" />
+              <item name="2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Codewar" type="b2602c69:ProjectViewProjectNode" />
@@ -105,11 +173,11 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Codewar\img" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Codewar\2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Codewar\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -124,49 +192,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Start with a Vowel">
-    <configuration name="Character with longest consecutive repetition" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Codewar" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6 kyu/8" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6 kyu/8/Character with longest consecutive repetition.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Hello, Name or World!" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Codewar" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8 kyu/4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8 kyu/4/Hello, Name or World!.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Write out expression!">
     <configuration name="Hungarian Vowel Harmony (easy)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Codewar" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -201,6 +227,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6 kyu/9/Hungarian Vowel Harmony (harder).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Numbers in strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Codewar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7 kyu/17" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 kyu/17/Numbers in strings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,21 +298,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Write out expression!" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Codewar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7 kyu/18" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 kyu/18/Write out expression!.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Hungarian Vowel Harmony (harder)" />
       <item itemvalue="Python.The Hashtag Generator" />
-      <item itemvalue="Python.Hello, Name or World!" />
-      <item itemvalue="Python.Character with longest consecutive repetition" />
       <item itemvalue="Python.Hungarian Vowel Harmony (easy)" />
       <item itemvalue="Python.Start with a Vowel" />
+      <item itemvalue="Python.Numbers in strings" />
+      <item itemvalue="Python.Write out expression!" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Write out expression!" />
+        <item itemvalue="Python.Numbers in strings" />
         <item itemvalue="Python.Start with a Vowel" />
         <item itemvalue="Python.Hungarian Vowel Harmony (easy)" />
         <item itemvalue="Python.The Hashtag Generator" />
-        <item itemvalue="Python.Character with longest consecutive repetition" />
-        <item itemvalue="Python.Hello, Name or World!" />
       </list>
     </recent_temporary>
   </component>
@@ -296,6 +364,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -306,8 +375,8 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33184856" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -376,8 +445,52 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/7 kyu/16/Simple remove duplicates.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        <state relative-caret-position="420">
+          <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7 kyu/15/Start with a Vowel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="56" column="26" lean-forward="true" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 kyu/8/Character with longest consecutive repetition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1078" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 kyu/9/Hungarian Vowel Harmony (harder).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-420" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7 kyu/17/Numbers in strings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="20" />
+          <folding>
+            <marker date="1600511167216" expanded="true" signature="528:534" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7 kyu/18/Write out expression!.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="38" column="65" selection-start-line="38" selection-start-column="65" selection-end-line="38" selection-end-column="65" />
+          <folding>
+            <marker date="1600522436021" expanded="true" signature="1983:1989" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5 kyu/2/The Hashtag Generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="24" column="65" lean-forward="true" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
         </state>
       </provider>
     </entry>

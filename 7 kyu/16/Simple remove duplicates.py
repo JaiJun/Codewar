@@ -12,6 +12,8 @@
                 if i not in re:
                     re.append(i)
             return re[::-1]
+
+    https://www.codewars.com/kata/5ba38ba180824a86850000f7
 """
 
 def solve(arr):

@@ -27,6 +27,7 @@
                     rst += e
             return rst.lstrip()
 
+    https://www.codewars.com/kata/5a02e9c19f8e2dbd50000167
 """
 import re
 def vowel_start(st):
