@@ -20,8 +20,7 @@
                     count +=1
 
             return count
-
-    https://www.codewars.com/kata/5a3e1319b6486ac96f000049/python
+    https://www.codewars.com/kata/5a3e1319b6486ac96f000049
 """
 
 

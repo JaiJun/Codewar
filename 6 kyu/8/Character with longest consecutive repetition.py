@@ -49,5 +49,5 @@ def longest_repetition(chars=None):
         return (res, count)
 
 if __name__ == '__main__':
-    input = "bbbaaabaaaa"
+    input = "bbbbbaaabaaaa"
     print(longest_repetition(input))
