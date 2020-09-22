@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc4171db-1b0e-40d0-9678-1a868667e270" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7 kyu/17/Numbers in strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7 kyu/18/Write out expression!.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 kyu/19/Simple consecutive pairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 kyu/5/Filling an array (part 1).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5 kyu/2/The Hashtag Generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/2/The Hashtag Generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7 kyu/15/Start with a Vowel.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu/15/Start with a Vowel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7 kyu/16/Simple remove duplicates.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu/16/Simple remove duplicates.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,22 +24,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="9" />
+          <entry key="py" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="9" />
+          <entry key="Python" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="2307" />
+          <entry key="py" value="3255" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="2307" />
+          <entry key="Python" value="3255" />
         </counts>
       </usages-collector>
     </session>
@@ -49,50 +47,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7 kyu/16/Simple remove duplicates.py">
+        <entry file="file://$PROJECT_DIR$/8 kyu/5/Filling an array (part 1).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/6 kyu/9/Hungarian Vowel Harmony (harder).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-420" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7 kyu/17/Numbers in strings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="20" />
-              <folding>
-                <marker date="1600511167216" expanded="true" signature="528:534" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7 kyu/18/Write out expression!.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="38" column="65" selection-start-line="38" selection-start-column="65" selection-end-line="38" selection-end-column="65" />
-              <folding>
-                <marker date="1600522436021" expanded="true" signature="1983:1989" ph="..." />
-              </folding>
+            <state relative-caret-position="798">
+              <caret line="29" column="14" lean-forward="true" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/5 kyu/2/The Hashtag Generator.py">
+        <entry file="file://$PROJECT_DIR$/7 kyu/19/Simple consecutive pairs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="24" column="65" lean-forward="true" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
+            <state relative-caret-position="-462">
+              <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -117,6 +84,8 @@
         <option value="$PROJECT_DIR$/7 kyu/15/Start with a Vowel.py" />
         <option value="$PROJECT_DIR$/7 kyu/18/Write out expression!.py" />
         <option value="$PROJECT_DIR$/5 kyu/2/The Hashtag Generator.py" />
+        <option value="$PROJECT_DIR$/8 kyu/5/Filling an array (part 1).py" />
+        <option value="$PROJECT_DIR$/7 kyu/19/Simple consecutive pairs.py" />
       </list>
     </option>
   </component>
@@ -154,7 +123,7 @@
             <path>
               <item name="Codewar" type="b2602c69:ProjectViewProjectNode" />
               <item name="Codewar" type="462c0819:PsiDirectoryNode" />
-              <item name="8 kyu" type="462c0819:PsiDirectoryNode" />
+              <item name="7 kyu" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -192,8 +161,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Write out expression!">
-    <configuration name="Hungarian Vowel Harmony (easy)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Simple consecutive pairs">
+    <configuration name="Filling an array (part 1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Codewar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -201,11 +170,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7 kyu/14" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8 kyu/5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 kyu/14/Hungarian Vowel Harmony (easy).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8 kyu/5/Filling an array (part 1).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,6 +225,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Simple consecutive pairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Codewar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7 kyu/19" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 kyu/19/Simple consecutive pairs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Start with a Vowel" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Codewar" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -269,27 +259,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 kyu/15/Start with a Vowel.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="The Hashtag Generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Codewar" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5 kyu/2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5 kyu/2/The Hashtag Generator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -321,19 +290,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Hungarian Vowel Harmony (harder)" />
-      <item itemvalue="Python.The Hashtag Generator" />
-      <item itemvalue="Python.Hungarian Vowel Harmony (easy)" />
       <item itemvalue="Python.Start with a Vowel" />
       <item itemvalue="Python.Numbers in strings" />
       <item itemvalue="Python.Write out expression!" />
+      <item itemvalue="Python.Filling an array (part 1)" />
+      <item itemvalue="Python.Simple consecutive pairs" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Simple consecutive pairs" />
+        <item itemvalue="Python.Filling an array (part 1)" />
         <item itemvalue="Python.Write out expression!" />
         <item itemvalue="Python.Numbers in strings" />
         <item itemvalue="Python.Start with a Vowel" />
-        <item itemvalue="Python.Hungarian Vowel Harmony (easy)" />
-        <item itemvalue="Python.The Hashtag Generator" />
       </list>
     </recent_temporary>
   </component>
@@ -367,7 +336,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
@@ -375,7 +344,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33184856" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33184856" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -470,7 +439,7 @@
     <entry file="file://$PROJECT_DIR$/7 kyu/17/Numbers in strings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="20" />
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="20" />
           <folding>
             <marker date="1600511167216" expanded="true" signature="528:534" ph="..." />
           </folding>
@@ -489,8 +458,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/5 kyu/2/The Hashtag Generator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="24" column="65" lean-forward="true" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
+        <state relative-caret-position="420">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8 kyu/4/Hello, Name or World!.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="32" selection-start-line="32" selection-end-line="34" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8 kyu/5/Filling an array (part 1).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="29" column="14" lean-forward="true" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7 kyu/19/Simple consecutive pairs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-462">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
         </state>
       </provider>
     </entry>
