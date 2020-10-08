@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc4171db-1b0e-40d0-9678-1a868667e270" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/6 kyu/10/Filling an array (part 2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 kyu/20/Peak array index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 kyu/21/Mirror, mirror, on the wall....py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 kyu/22/Stones on the Table.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6 kyu/8/Character with longest consecutive repetition.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/8/Character with longest consecutive repetition.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7 kyu/19/Simple consecutive pairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu/19/Simple consecutive pairs.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,68 +18,64 @@
     <session id="2030839328">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="14" />
+          <entry key="py" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="14" />
+          <entry key="Python" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="4472" />
+          <entry key="py" value="6053" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="4472" />
+          <entry key="Python" value="6053" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8 kyu/5/Filling an array (part 1).py">
+        <entry file="file://$PROJECT_DIR$/6 kyu/10/Filling an array (part 2).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7 kyu/19/Simple consecutive pairs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="22" column="58" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/6 kyu/8/Character with longest consecutive repetition.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+            <state relative-caret-position="2520">
+              <caret line="90" column="13" selection-start-line="90" selection-start-column="13" selection-end-line="90" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/6 kyu/10/Filling an array (part 2).py">
+        <entry file="file://$PROJECT_DIR$/7 kyu/22/Stones on the Table.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="101" column="32" lean-forward="true" selection-start-line="101" selection-start-column="32" selection-end-line="101" selection-end-column="32" />
+            <state relative-caret-position="202">
+              <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
               <folding>
-                <marker date="1600766733207" expanded="true" signature="1856:2102" ph="..." />
+                <marker date="1602151345115" expanded="true" signature="554:559" ph="..." />
+                <marker date="1602151345115" expanded="true" signature="554:789" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7 kyu/21/Mirror, mirror, on the wall....py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="388">
+              <caret line="27" selection-start-line="27" selection-end-line="27" selection-end-column="26" />
+              <folding>
+                <marker date="1602147632640" expanded="true" signature="943:982" ph="..." />
               </folding>
             </state>
           </provider>
@@ -109,13 +105,17 @@
         <option value="$PROJECT_DIR$/6 kyu/8/Character with longest consecutive repetition.py" />
         <option value="$PROJECT_DIR$/7 kyu/19/Simple consecutive pairs.py" />
         <option value="$PROJECT_DIR$/6 kyu/10/Filling an array (part 2).py" />
+        <option value="$PROJECT_DIR$/7 kyu/20/Peak array index.py" />
+        <option value="$PROJECT_DIR$/7 kyu/21/Mirror, mirror, on the wall....py" />
+        <option value="$PROJECT_DIR$/7 kyu/22/Stones on the Table.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="1934" />
-    <option name="height" value="1047" />
+    <option name="x" value="-303" />
+    <option name="y" value="157" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectId" id="1hgzQfvlds4yZD69nleQ8lspnT9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -124,7 +124,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,12 +134,13 @@
             <path>
               <item name="Codewar" type="b2602c69:ProjectViewProjectNode" />
               <item name="Codewar" type="462c0819:PsiDirectoryNode" />
-              <item name="6 kyu" type="462c0819:PsiDirectoryNode" />
+              <item name="7 kyu" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -156,6 +156,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Codewar\6 kyu\10" />
+      <recent name="D:\Codewar\img" />
       <recent name="D:\Codewar\2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -174,7 +176,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Filling an array (part 2)">
+  <component name="RunManager" selected="Python.Stones on the Table">
     <configuration name="Character with longest consecutive repetition" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Codewar" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -188,27 +190,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6 kyu/8/Character with longest consecutive repetition.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Filling an array (part 1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Codewar" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8 kyu/5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8 kyu/5/Filling an array (part 1).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -259,7 +240,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Simple consecutive pairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Mirror, mirror, on the wall..." type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Codewar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -267,11 +248,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7 kyu/19" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7 kyu/21" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 kyu/19/Simple consecutive pairs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 kyu/21/Mirror, mirror, on the wall....py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -280,7 +261,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Write out expression!" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Peak array index" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Codewar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -288,11 +269,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7 kyu/18" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7 kyu/20" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 kyu/18/Write out expression!.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 kyu/20/Peak array index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Stones on the Table" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Codewar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7 kyu/22" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 kyu/22/Stones on the Table.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -303,19 +305,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Hungarian Vowel Harmony (harder)" />
-      <item itemvalue="Python.Write out expression!" />
-      <item itemvalue="Python.Filling an array (part 1)" />
-      <item itemvalue="Python.Simple consecutive pairs" />
       <item itemvalue="Python.Character with longest consecutive repetition" />
       <item itemvalue="Python.Filling an array (part 2)" />
+      <item itemvalue="Python.Peak array index" />
+      <item itemvalue="Python.Mirror, mirror, on the wall..." />
+      <item itemvalue="Python.Stones on the Table" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Stones on the Table" />
+        <item itemvalue="Python.Mirror, mirror, on the wall..." />
+        <item itemvalue="Python.Peak array index" />
         <item itemvalue="Python.Filling an array (part 2)" />
         <item itemvalue="Python.Character with longest consecutive repetition" />
-        <item itemvalue="Python.Simple consecutive pairs" />
-        <item itemvalue="Python.Filling an array (part 1)" />
-        <item itemvalue="Python.Write out expression!" />
       </list>
     </recent_temporary>
   </component>
@@ -348,20 +350,20 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33184856" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4142539" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -448,9 +450,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="25" column="20" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="20" />
-          <folding>
-            <marker date="1600511167216" expanded="true" signature="528:534" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -458,9 +457,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="490">
           <caret line="38" column="65" selection-start-line="38" selection-start-column="65" selection-end-line="38" selection-end-column="65" />
-          <folding>
-            <marker date="1600522436021" expanded="true" signature="1983:1989" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -499,12 +495,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/7 kyu/20/Peak array index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="27" selection-start-line="27" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/6 kyu/10/Filling an array (part 2).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="101" column="32" lean-forward="true" selection-start-line="101" selection-start-column="32" selection-end-line="101" selection-end-column="32" />
+        <state relative-caret-position="2520">
+          <caret line="90" column="13" selection-start-line="90" selection-start-column="13" selection-end-line="90" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7 kyu/21/Mirror, mirror, on the wall....py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="27" selection-start-line="27" selection-end-line="27" selection-end-column="26" />
           <folding>
-            <marker date="1600766733207" expanded="true" signature="1856:2102" ph="..." />
+            <marker date="1602147632640" expanded="true" signature="943:982" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7 kyu/22/Stones on the Table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+          <folding>
+            <marker date="1602151345115" expanded="true" signature="554:559" ph="..." />
+            <marker date="1602151345115" expanded="true" signature="554:789" ph="..." />
           </folding>
         </state>
       </provider>
