@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc4171db-1b0e-40d0-9678-1a868667e270" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7 kyu/23/Simple string matching.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8 kyu/6/You Can't Code Under Pressure #1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8 kyu/7/Are You Playing Banjo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8 kyu/8/Returning Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 kyu/24/Right in the Centre.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 kyu/10/Invert values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 kyu/11/Grasshopper - Summation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 kyu/9/Keep Hydrated!.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7 kyu/22/Stones on the Table.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu/22/Stones on the Table.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,22 +27,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="22" />
+          <entry key="py" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="22" />
+          <entry key="Python" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="6444" />
+          <entry key="py" value="8010" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="6444" />
+          <entry key="Python" value="8010" />
         </counts>
       </usages-collector>
     </session>
@@ -51,49 +50,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/6 kyu/10/Filling an array (part 2).py">
+        <entry file="file://$PROJECT_DIR$/7 kyu/23/Simple string matching.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2520">
-              <caret line="90" column="13" selection-start-line="90" selection-start-column="13" selection-end-line="90" selection-end-column="13" />
+            <state relative-caret-position="314">
+              <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8 kyu/6/You Can't Code Under Pressure #1.py">
+        <entry file="file://$PROJECT_DIR$/8 kyu/9/Keep Hydrated!.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="25" />
+            <state relative-caret-position="364">
+              <caret line="22" selection-start-line="22" selection-end-line="24" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8 kyu/7/Are You Playing Banjo.py">
+        <entry file="file://$PROJECT_DIR$/8 kyu/10/Invert values.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-25">
-              <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+            <state relative-caret-position="308">
+              <caret line="20" selection-start-line="20" selection-end-line="22" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/8 kyu/8/Returning Strings.py">
+        <entry file="file://$PROJECT_DIR$/8 kyu/11/Grasshopper - Summation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-              <folding>
-                <marker date="1602581159709" expanded="true" signature="501:506" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7 kyu/23/Simple string matching.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="26" />
+            <state relative-caret-position="448">
+              <caret line="16" column="58" lean-forward="true" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -106,6 +93,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>abc</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -129,6 +121,11 @@
         <option value="$PROJECT_DIR$/8 kyu/6/You Can't Code Under Pressure #1.py" />
         <option value="$PROJECT_DIR$/8 kyu/7/Are You Playing Banjo.py" />
         <option value="$PROJECT_DIR$/8 kyu/8/Returning Strings.py" />
+        <option value="$PROJECT_DIR$/7 kyu/24/Right in the Centre.py" />
+        <option value="$PROJECT_DIR$/8 kyu/9/Keep Hydrated! 28610186% of 5,44911,495 of 46,784paulrichard.py" />
+        <option value="$PROJECT_DIR$/8 kyu/9/Keep Hydrated!.py" />
+        <option value="$PROJECT_DIR$/8 kyu/10/Invert values.py" />
+        <option value="$PROJECT_DIR$/8 kyu/11/Grasshopper - Summation.py" />
       </list>
     </option>
   </component>
@@ -202,8 +199,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Returning Strings">
-    <configuration name="Are You Playing Banjo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Grasshopper - Summation">
+    <configuration name="Grasshopper - Summation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Codewar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -211,11 +208,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8 kyu/7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8 kyu/11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8 kyu/7/Are You Playing Banjo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8 kyu/11/Grasshopper - Summation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -245,7 +242,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Mirror, mirror, on the wall..." type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Invert values" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Codewar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -253,11 +250,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7 kyu/21" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8 kyu/10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 kyu/21/Mirror, mirror, on the wall....py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8 kyu/10/Invert values.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Keep Hydrated!" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Codewar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8 kyu/9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8 kyu/9/Keep Hydrated!.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,7 +305,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Simple string matching" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Right in the Centre" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Codewar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -295,32 +313,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7 kyu/23" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7 kyu/24" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 kyu/23/Simple string matching.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Stones on the Table" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Codewar" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7 kyu/22" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 kyu/22/Stones on the Table.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 kyu/24/Right in the Centre.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -331,19 +328,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Hungarian Vowel Harmony (harder)" />
-      <item itemvalue="Python.Mirror, mirror, on the wall..." />
-      <item itemvalue="Python.Stones on the Table" />
-      <item itemvalue="Python.Simple string matching" />
-      <item itemvalue="Python.Are You Playing Banjo" />
       <item itemvalue="Python.Returning Strings" />
+      <item itemvalue="Python.Right in the Centre" />
+      <item itemvalue="Python.Keep Hydrated!" />
+      <item itemvalue="Python.Invert values" />
+      <item itemvalue="Python.Grasshopper - Summation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Grasshopper - Summation" />
+        <item itemvalue="Python.Invert values" />
+        <item itemvalue="Python.Keep Hydrated!" />
+        <item itemvalue="Python.Right in the Centre" />
         <item itemvalue="Python.Returning Strings" />
-        <item itemvalue="Python.Are You Playing Banjo" />
-        <item itemvalue="Python.Simple string matching" />
-        <item itemvalue="Python.Stones on the Table" />
-        <item itemvalue="Python.Mirror, mirror, on the wall..." />
       </list>
     </recent_temporary>
   </component>
@@ -381,7 +378,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2505568" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30957684" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -552,17 +549,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/7 kyu/23/Simple string matching.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/8 kyu/6/You Can't Code Under Pressure #1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="25" />
+        <state relative-caret-position="308">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -575,11 +565,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/8 kyu/8/Returning Strings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        <state relative-caret-position="364">
+          <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
           <folding>
             <marker date="1602581159709" expanded="true" signature="501:506" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7 kyu/24/Right in the Centre.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <marker date="1602590672948" expanded="true" signature="1100:2695" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8 kyu/9/Keep Hydrated!">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7 kyu/23/Simple string matching.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8 kyu/9/Keep Hydrated!.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="22" selection-start-line="22" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8 kyu/10/Invert values.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="20" selection-start-line="20" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8 kyu/11/Grasshopper - Summation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="16" column="58" lean-forward="true" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
         </state>
       </provider>
     </entry>
