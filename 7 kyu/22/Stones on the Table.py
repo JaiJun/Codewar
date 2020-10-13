@@ -10,6 +10,10 @@
             return sum(st)
 
     https://www.codewars.com/kata/5f70e4cce10f9e0001c8995a/python
+
+
+    Reference:
+        https://liuxveyang.github.io/posts/cf266-a.-stones-on-the-table/
 """
 
 
