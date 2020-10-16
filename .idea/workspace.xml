@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc4171db-1b0e-40d0-9678-1a868667e270" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/8 kyu/Beginner Series #4 Cockroach.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8 kyu/Capitalization and Mutability.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8 kyu/Grasshopper - Debug sayHello.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dc4171db-1b0e-40d0-9678-1a868667e270" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,45 +47,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/7 kyu/23/Simple string matching.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8 kyu/Beginner Series #4 Cockroach.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <marker date="1602830828894" expanded="true" signature="497:502" ph="..." />
-                <marker date="1602830828894" expanded="true" signature="497:592" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8 kyu/Grasshopper - Debug sayHello.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <marker date="1602831550547" expanded="true" signature="470:473" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/8 kyu/Capitalization and Mutability.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="13" column="58" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
+            <state relative-caret-position="386">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -173,11 +134,6 @@
             <path>
               <item name="Codewar" type="b2602c69:ProjectViewProjectNode" />
               <item name="Codewar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Codewar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Codewar" type="462c0819:PsiDirectoryNode" />
-              <item name="8 kyu" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -390,14 +346,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3363029" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3363029" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -699,13 +654,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/7 kyu/23/Simple string matching.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/8 kyu/Beginner Series #4 Cockroach.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="448">
@@ -729,8 +677,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/8 kyu/Capitalization and Mutability.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="13" column="58" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
+        <state relative-caret-position="132">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7 kyu/23/Simple string matching.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
