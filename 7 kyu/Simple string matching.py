@@ -19,6 +19,8 @@
     solve("codewars","codewars") = true, because the strings already match.
     solve("a","b") = false
 
+    Solution key> fnmatch
+
     I think best solution:
         from fnmatch import fnmatch
             def solve(a, b):
