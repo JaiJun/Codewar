@@ -64,40 +64,40 @@ l = ['0','One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine',
 
 
 
-# def expression_out(exp):
-#     arr = exp.split()
-#     print(arr)
-#     for value in arr:
-#         if value in operators:
-#             print("Operators")
-#             check.append("Operators")
-#         elif value in digits:
-#             print("Digits")
-#             check.append("Digits")
-#         else:
-#             Meg = "That's not an operator!-1"
-#             print(Meg)
-#             return Meg
-#
-#     print(check)
-#     if "Operators" in check:
-#         print("True")
-#         for i in range(len(arr)):
-#             if arr[i] in operators:
-#                 print(arr[i])
-#                 arr[i] = operators[arr[i]]
-#
-#             elif arr[i] in digits:
-#                 print(arr[i])
-#                 arr[i] = digits[arr[i]]
-#         Result = ' '.join(arr)
-#         print(Result)
-#         return Result
-#     else:
-#         Meg = "That's not an operator!-2"
-#         print(Meg)
-#         return Meg
-#
+def expression_out(exp):
+    arr = exp.split()
+    print(arr)
+    for value in arr:
+        if value in operators:
+            print("Operators")
+            check.append("Operators")
+        elif value in digits:
+            print("Digits")
+            check.append("Digits")
+        else:
+            Meg = "That's not an operator!-1"
+            print(Meg)
+            return Meg
+
+    print(check)
+    if "Operators" in check:
+        print("True")
+        for i in range(len(arr)):
+            if arr[i] in operators:
+                print(arr[i])
+                arr[i] = operators[arr[i]]
+
+            elif arr[i] in digits:
+                print(arr[i])
+                arr[i] = digits[arr[i]]
+        Result = ' '.join(arr)
+        print(Result)
+        return Result
+    else:
+        Meg = "That's not an operator!-2"
+        print(Meg)
+        return Meg
+
 
 
 if __name__ == '__main__':
