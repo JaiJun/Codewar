@@ -18,16 +18,42 @@
 
     solve("codewars","codewars") = true, because the strings already match.
     solve("a","b") = false
+
+    I think best solution:
+        from fnmatch import fnmatch
+            def solve(a, b):
+                print(fnmatch(b, a))
+                return fnmatch(b, a)
+
+    https://www.codewars.com/kata/5bc052f93f43de7054000188
+
 """
-def solve(a,b):
+
+
+def solve(a, b):
     if "*" in a:
         print("a>", a)
         print("b>", b)
-        replasestr = ""
-        for i in range(len(b)):
-
-            # print(a.replace('*', replasestr))
-            print(b[i:])
+        element = a.split('*')
+        left = len(element[0])
+        right = len(element[1])
+        print(b[:left], b[-right:])
+        if len(a.replace('*', "")) > len(b):
+            print("More >b", False)
+            return False
+        else:
+            if element[0] == b[:left] and element[1] == b[-right:]:
+                print("1-True")
+                return True
+            elif element[0] == "" and element[1] == b[-right:]:
+                print("2-True")
+                return True
+            elif element[1] == "" and element[0] == b[:left]:
+                print("3-True")
+                return True
+            else:
+                print("4-False")
+                return False
 
     else:
         if len(a) == len(b):
@@ -38,10 +64,7 @@ def solve(a,b):
             return False
 
 
-
-    pass
-
 if __name__ == '__main__':
-    a = "aa*"
-    b = "aaa"
-    solve(a,b)
+    a = "code*warrior"
+    b = "codewars"
+    solve(a, b)
