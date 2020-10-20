@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc4171db-1b0e-40d0-9678-1a868667e270" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7 kyu/Duplicate sandwich.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7 kyu/Life Path Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8 kyu/Area or Perimeter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8 kyu/Beginner Series #2 Clock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8 kyu/Grasshopper - Debug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 kyu/A wolf in sheep's clothing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 kyu/Grasshopper - Messi Goals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 kyu/Parse float.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 kyu/String repeat.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
@@ -28,26 +27,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="png" value="1" />
-          <entry key="py" value="58" />
+          <entry key="png" value="3" />
+          <entry key="py" value="62" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="1" />
-          <entry key="Python" value="58" />
+          <entry key="Image" value="3" />
+          <entry key="Python" value="62" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="3" />
-          <entry key="py" value="19307" />
+          <entry key="py" value="20174" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="19307" />
+          <entry key="Python" value="20174" />
         </counts>
       </usages-collector>
     </session>
@@ -55,52 +54,43 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8 kyu/Beginner Series #2 Clock.py">
+        <entry file="file://$PROJECT_DIR$/8 kyu/Grasshopper - Messi Goals.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="560">
+              <caret line="20" column="58" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="58" />
               <folding>
-                <marker date="1603090833171" expanded="true" signature="584:588" ph="..." />
+                <marker date="1603180603990" expanded="true" signature="684:760" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8 kyu/Grasshopper - Debug.py">
+        <entry file="file://$PROJECT_DIR$/8 kyu/Parse float.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8 kyu/Area or Perimeter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="11" column="58" lean-forward="true" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+            <state relative-caret-position="392">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
-                <marker date="1603092746068" expanded="true" signature="517:519" ph="..." />
+                <marker date="1603180591526" expanded="true" signature="356:588" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7 kyu/Duplicate sandwich.py">
+        <entry file="file://$PROJECT_DIR$/8 kyu/String repeat.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+            <state relative-caret-position="392">
+              <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/7 kyu/Life Path Number.py">
+        <entry file="file://$PROJECT_DIR$/8 kyu/A wolf in sheep's clothing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="14" column="58" lean-forward="true" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+            <state relative-caret-position="133">
+              <caret line="34" column="29" lean-forward="true" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -175,6 +165,10 @@
         <option value="$PROJECT_DIR$/8 kyu/Area or Perimeter.py" />
         <option value="$PROJECT_DIR$/7 kyu/Duplicate sandwich.py" />
         <option value="$PROJECT_DIR$/7 kyu/Life Path Number.py" />
+        <option value="$PROJECT_DIR$/8 kyu/Parse float.py" />
+        <option value="$PROJECT_DIR$/8 kyu/Grasshopper - Messi Goals.py" />
+        <option value="$PROJECT_DIR$/8 kyu/String repeat.py" />
+        <option value="$PROJECT_DIR$/8 kyu/A wolf in sheep's clothing.py" />
       </list>
     </option>
   </component>
@@ -198,6 +192,16 @@
             <path>
               <item name="Codewar" type="b2602c69:ProjectViewProjectNode" />
               <item name="Codewar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Codewar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codewar" type="462c0819:PsiDirectoryNode" />
+              <item name="8 kyu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Codewar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codewar" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -238,8 +242,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Life Path Number">
-    <configuration name="Beginner Series #2 Clock" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.A wolf in sheep's clothing">
+    <configuration name="A wolf in sheep's clothing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Codewar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -251,7 +255,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8 kyu/Beginner Series #2 Clock.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8 kyu/A wolf in sheep's clothing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,28 +264,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Duplicate sandwich" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Codewar" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7 kyu" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 kyu/Duplicate sandwich.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Grasshopper - Debug" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Grasshopper - Messi Goals" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Codewar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -293,7 +276,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8 kyu/Grasshopper - Debug.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8 kyu/Grasshopper - Messi Goals.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -344,7 +327,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Reverser" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Parse float" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Codewar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -352,11 +335,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7 kyu" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8 kyu" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 kyu/Reverser.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8 kyu/Parse float.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="String repeat" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Codewar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8 kyu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8 kyu/String repeat.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -367,19 +371,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Hungarian Vowel Harmony (harder)" />
-      <item itemvalue="Python.Reverser" />
-      <item itemvalue="Python.Beginner Series #2 Clock" />
-      <item itemvalue="Python.Grasshopper - Debug" />
-      <item itemvalue="Python.Duplicate sandwich" />
       <item itemvalue="Python.Life Path Number" />
+      <item itemvalue="Python.Grasshopper - Messi Goals" />
+      <item itemvalue="Python.Parse float" />
+      <item itemvalue="Python.String repeat" />
+      <item itemvalue="Python.A wolf in sheep's clothing" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.A wolf in sheep's clothing" />
+        <item itemvalue="Python.String repeat" />
+        <item itemvalue="Python.Parse float" />
+        <item itemvalue="Python.Grasshopper - Messi Goals" />
         <item itemvalue="Python.Life Path Number" />
-        <item itemvalue="Python.Duplicate sandwich" />
-        <item itemvalue="Python.Grasshopper - Debug" />
-        <item itemvalue="Python.Beginner Series #2 Clock" />
-        <item itemvalue="Python.Reverser" />
       </list>
     </recent_temporary>
   </component>
@@ -489,25 +493,6 @@
     <state x="578" y="297" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600447768155" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/7 kyu/16/Simple remove duplicates.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7 kyu/15/Start with a Vowel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="56" column="26" lean-forward="true" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 kyu/9/Hungarian Vowel Harmony (harder).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-420" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/7 kyu/17/Numbers in strings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -601,9 +586,6 @@
           <caret line="20" selection-start-line="20" selection-end-line="22" selection-end-column="17" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/Honor_Level.png">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/8 kyu/11/Grasshopper - Summation.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -841,10 +823,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/Honor_Level.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/7 kyu/Life Path Number.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8 kyu/Grasshopper - Messi Goals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="20" column="58" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="58" />
+          <folding>
+            <marker date="1603180603990" expanded="true" signature="684:760" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8 kyu/Parse float.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="392">
-          <caret line="14" column="58" lean-forward="true" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <marker date="1603180591526" expanded="true" signature="356:588" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8 kyu/String repeat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8 kyu/A wolf in sheep's clothing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="34" column="29" lean-forward="true" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
         </state>
       </provider>
     </entry>
