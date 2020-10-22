@@ -1,0 +1,36 @@
+"""
+    In this simple exercise, you will build a program that takes a value, integer, and returns a list of its multiples up to another value, limit.
+
+    If limit is a multiple of integer, it should be included as well.
+
+    There will only ever be positive integers passed into the function, not consisting of 0.
+
+    The limit will always be higher than the base.
+
+    For example, if the parameters passed are (2, 6), the function should return [2, 4, 6] as 2, 4, and 6 are the multiples of 2 up to 6.
+
+    If you can, try writing it in only one line of code.
+
+    I think best solution:
+        def find_multiples(integer, limit):
+            return list(range(integer, limit+1, integer))
+
+    https://www.codewars.com/kata/58ca658cc0d6401f2700045f
+"""
+
+
+def find_multiples(integer, limit):
+    Result = []
+    for i in range(integer, limit + 1, 1):
+        if i % integer == 0:
+            Result.append(i)
+        else:
+            print("No match")
+    print(Result)
+    return Result
+
+
+if __name__ == '__main__':
+    integer = 5
+    limit = 25
+    find_multiples(integer, limit)
