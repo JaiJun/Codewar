@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc4171db-1b0e-40d0-9678-1a868667e270" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/8 kyu/Find Multiples of a Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 kyu/L2 Triple X.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 kyu/Unlucky Days.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 kyu/Who is the killer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 kyu/Quarter of the year.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,25 +30,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="png" value="3" />
-          <entry key="py" value="79" />
+          <entry key="py" value="83" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="3" />
-          <entry key="Python" value="79" />
+          <entry key="Python" value="83" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="3" />
-          <entry key="py" value="23505" />
+          <entry key="py" value="24435" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="23505" />
+          <entry key="Python" value="24435" />
         </counts>
       </usages-collector>
     </session>
@@ -52,34 +56,41 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8 kyu/L1 Set Alarm.py">
+        <entry file="file://$PROJECT_DIR$/8 kyu/Quarter of the year.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="26" column="58" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
+            <state relative-caret-position="896">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
               <folding>
-                <marker date="1603382155727" expanded="true" signature="913:1015" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/8 kyu/Find Multiples of a Number.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-              <folding>
-                <marker date="1603382665158" expanded="true" signature="812:980" ph="..." />
+                <marker date="1603389509856" expanded="true" signature="517:522" ph="..." />
+                <marker date="1603389509856" expanded="true" signature="517:690" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8 kyu/Check the exam.py">
+        <entry file="file://$PROJECT_DIR$/7 kyu/Who is the killer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="537">
-              <caret line="32" column="58" selection-start-line="32" selection-start-column="58" selection-end-line="32" selection-end-column="58" />
+            <state relative-caret-position="1344">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7 kyu/L2 Triple X.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="980">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/7 kyu/Unlucky Days.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="30" column="19" lean-forward="true" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -109,10 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/8 kyu/6/You Can't Code Under Pressure #1.py" />
-        <option value="$PROJECT_DIR$/8 kyu/7/Are You Playing Banjo.py" />
-        <option value="$PROJECT_DIR$/8 kyu/8/Returning Strings.py" />
-        <option value="$PROJECT_DIR$/7 kyu/24/Right in the Centre.py" />
         <option value="$PROJECT_DIR$/8 kyu/9/Keep Hydrated! 28610186% of 5,44911,495 of 46,784paulrichard.py" />
         <option value="$PROJECT_DIR$/8 kyu/9/Keep Hydrated!.py" />
         <option value="$PROJECT_DIR$/8 kyu/10/Invert values.py" />
@@ -160,6 +167,10 @@
         <option value="$PROJECT_DIR$/8 kyu/Check the exam.py" />
         <option value="$PROJECT_DIR$/8 kyu/L1 Set Alarm.py" />
         <option value="$PROJECT_DIR$/8 kyu/Find Multiples of a Number.py" />
+        <option value="$PROJECT_DIR$/8 kyu/Quarter of the year.py" />
+        <option value="$PROJECT_DIR$/7 kyu/Who is the killer.py" />
+        <option value="$PROJECT_DIR$/7 kyu/L2 Triple X.py" />
+        <option value="$PROJECT_DIR$/7 kyu/Unlucky Days.py" />
       </list>
     </option>
   </component>
@@ -182,6 +193,11 @@
             <path>
               <item name="Codewar" type="b2602c69:ProjectViewProjectNode" />
               <item name="Codewar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Codewar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codewar" type="462c0819:PsiDirectoryNode" />
+              <item name="7 kyu" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -224,7 +240,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Find Multiples of a Number">
+  <component name="RunManager" selected="Python.Unlucky Days">
     <configuration name="Check the exam" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Codewar" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -267,27 +283,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Highest and Lowest" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Codewar" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7 kyu" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 kyu/Highest and Lowest.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Hungarian Vowel Harmony (harder)" type="PythonConfigurationType" factoryName="Python">
       <module name="Codewar" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -309,7 +304,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Shortest Word" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="L2 Triple X" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Codewar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -321,7 +316,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 kyu/Shortest Word.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 kyu/L2 Triple X.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -330,7 +325,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="What is the sum of the first n odd Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unlucky Days" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Codewar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -342,7 +337,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 kyu/What is the sum of the first n odd Numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 kyu/Unlucky Days.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Who is the killer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Codewar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7 kyu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 kyu/Who is the killer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -353,19 +369,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Hungarian Vowel Harmony (harder)" />
-      <item itemvalue="Python.What is the sum of the first n odd Numbers" />
-      <item itemvalue="Python.Highest and Lowest" />
-      <item itemvalue="Python.Shortest Word" />
       <item itemvalue="Python.Check the exam" />
       <item itemvalue="Python.Find Multiples of a Number" />
+      <item itemvalue="Python.Who is the killer" />
+      <item itemvalue="Python.L2 Triple X" />
+      <item itemvalue="Python.Unlucky Days" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Unlucky Days" />
+        <item itemvalue="Python.L2 Triple X" />
+        <item itemvalue="Python.Who is the killer" />
         <item itemvalue="Python.Find Multiples of a Number" />
         <item itemvalue="Python.Check the exam" />
-        <item itemvalue="Python.Shortest Word" />
-        <item itemvalue="Python.Highest and Lowest" />
-        <item itemvalue="Python.What is the sum of the first n odd Numbers" />
       </list>
     </recent_temporary>
   </component>
@@ -403,7 +419,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27951002" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2806236" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -475,10 +491,6 @@
     <state x="578" y="297" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600447768155" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/8 kyu/10/Invert values.py" />
-    <entry file="file://$PROJECT_DIR$/8 kyu/11/Grasshopper - Summation.py" />
-    <entry file="file://$PROJECT_DIR$/7 kyu/22/Stones on the Table.py" />
-    <entry file="file://$PROJECT_DIR$/8 kyu/9/Keep Hydrated!.py" />
     <entry file="file://$PROJECT_DIR$/8 kyu/12/Is he gonna survive.py" />
     <entry file="file://$PROJECT_DIR$/8 kyu/13/Get the mean of an array.py" />
     <entry file="file://$PROJECT_DIR$/8 kyu/14/The falling speed of petals.py" />
@@ -733,11 +745,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/8 kyu/Find Multiples of a Number.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
+        <state relative-caret-position="532">
           <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
           <folding>
             <marker date="1603382665158" expanded="true" signature="812:980" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8 kyu/Quarter of the year.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="896">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <marker date="1603389509856" expanded="true" signature="517:522" ph="..." />
+            <marker date="1603389509856" expanded="true" signature="517:690" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7 kyu/Who is the killer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1344">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7 kyu/L2 Triple X.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="980">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7 kyu/Unlucky Days.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="30" column="19" lean-forward="true" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
         </state>
       </provider>
     </entry>
