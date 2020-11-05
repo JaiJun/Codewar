@@ -18,11 +18,14 @@
 
     https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3
 """
+
+
 def abbrev_name(name):
     Result = name.split(" ")
 
-    return str.upper(Result[0][0] +"." + Result[1][0])
+    return str.upper(Result[0][0] + "." + Result[1][0])
+
 
 if __name__ == '__main__':
-    input ="Sam Harris"
+    input = "Sam Harris"
     abbrev_name(input)
