@@ -20,12 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc4171db-1b0e-40d0-9678-1a868667e270" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7 kyu/Char Code Calculation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7 kyu/Sum of Cubes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7 kyu/Two numbers are positive.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Codewar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Codewar.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 kyu/Reverse the bits in an integer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,28 +72,7 @@
       <recent name="D:\Codewar\2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Char Code Calculation">
-    <configuration name="Abbreviate a Two Word Name" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Codewar" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8 kyu" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8 kyu/Abbreviate a Two Word Name.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Reverse the bits in an integer">
     <configuration name="Char Code Calculation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Codewar" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,6 +136,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Reverse the bits in an integer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Codewar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7 kyu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 kyu/Reverse the bits in an integer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Sum of Cubes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Codewar" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -206,19 +201,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Hungarian Vowel Harmony (harder)" />
-      <item itemvalue="Python.Abbreviate a Two Word Name" />
       <item itemvalue="Python.How do I compare numbers" />
       <item itemvalue="Python.Two numbers are positive" />
       <item itemvalue="Python.Sum of Cubes" />
       <item itemvalue="Python.Char Code Calculation" />
+      <item itemvalue="Python.Reverse the bits in an integer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Reverse the bits in an integer" />
         <item itemvalue="Python.Char Code Calculation" />
         <item itemvalue="Python.Sum of Cubes" />
         <item itemvalue="Python.Two numbers are positive" />
         <item itemvalue="Python.How do I compare numbers" />
-        <item itemvalue="Python.Abbreviate a Two Word Name" />
       </list>
     </recent_temporary>
   </component>
@@ -251,22 +246,22 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1898" height="231" key="GridCell.Tab.0.bottom" timestamp="1615539855491">
+    <state width="1898" height="231" key="GridCell.Tab.0.bottom" timestamp="1615541554539">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="231" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615539855491" />
-    <state width="1898" height="231" key="GridCell.Tab.0.center" timestamp="1615539855490">
+    <state width="1898" height="231" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615541554539" />
+    <state width="1898" height="231" key="GridCell.Tab.0.center" timestamp="1615541554538">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="231" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615539855490" />
-    <state width="1898" height="231" key="GridCell.Tab.0.left" timestamp="1615539855490">
+    <state width="1898" height="231" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615541554538" />
+    <state width="1898" height="231" key="GridCell.Tab.0.left" timestamp="1615541554538">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="231" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615539855490" />
-    <state width="1898" height="231" key="GridCell.Tab.0.right" timestamp="1615539855490">
+    <state width="1898" height="231" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615541554538" />
+    <state width="1898" height="231" key="GridCell.Tab.0.right" timestamp="1615541554538">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="231" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615539855490" />
+    <state width="1898" height="231" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615541554538" />
     <state width="1898" height="342" key="GridCell.Tab.1.bottom" timestamp="1615523709257">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
