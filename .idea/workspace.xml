@@ -13,14 +13,29 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:ChiaChun" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc4171db-1b0e-40d0-9678-1a868667e270" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7 kyu/Reverse the bits in an integer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6 kyu/Decode the Morse code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 kyu/Exes and Ohs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 kyu/Mumbling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Codewar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Codewar.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +62,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="ProjectId" id="1hgzQfvlds4yZD69nleQ8lspnT9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -72,8 +88,29 @@
       <recent name="D:\Codewar\2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Reverse the bits in an integer">
-    <configuration name="Char Code Calculation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Decode the Morse code">
+    <configuration name="Decode the Morse code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Codewar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6 kyu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6 kyu/Decode the Morse code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exes and Ohs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Codewar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,7 +122,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 kyu/Char Code Calculation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 kyu/Exes and Ohs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="How do I compare numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Find the odd int" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Codewar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8 kyu" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6 kyu" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8 kyu/How do I compare numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6 kyu/Find the odd int.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,6 +173,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Mumbling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Codewar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7 kyu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 kyu/Mumbling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Reverse the bits in an integer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Codewar" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,63 +215,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Sum of Cubes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Codewar" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7 kyu" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 kyu/Sum of Cubes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Two numbers are positive" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Codewar" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7 kyu" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 kyu/Two numbers are positive.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.Hungarian Vowel Harmony (harder)" />
-      <item itemvalue="Python.How do I compare numbers" />
-      <item itemvalue="Python.Two numbers are positive" />
-      <item itemvalue="Python.Sum of Cubes" />
-      <item itemvalue="Python.Char Code Calculation" />
       <item itemvalue="Python.Reverse the bits in an integer" />
+      <item itemvalue="Python.Find the odd int" />
+      <item itemvalue="Python.Exes and Ohs" />
+      <item itemvalue="Python.Mumbling" />
+      <item itemvalue="Python.Decode the Morse code" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Decode the Morse code" />
+        <item itemvalue="Python.Mumbling" />
+        <item itemvalue="Python.Exes and Ohs" />
+        <item itemvalue="Python.Find the odd int" />
         <item itemvalue="Python.Reverse the bits in an integer" />
-        <item itemvalue="Python.Char Code Calculation" />
-        <item itemvalue="Python.Sum of Cubes" />
-        <item itemvalue="Python.Two numbers are positive" />
-        <item itemvalue="Python.How do I compare numbers" />
       </list>
     </recent_temporary>
   </component>
@@ -229,6 +245,14 @@
       <option name="presentableId" value="Default" />
       <updated>1598448162603</updated>
     </task>
+    <task id="LOCAL-00001" summary="CodeWar_Test">
+      <created>1616908260907</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616908260907</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -236,47 +260,65 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CodeWar_Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="CodeWar_Test" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1898" height="231" key="GridCell.Tab.0.bottom" timestamp="1615541554539">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1616908443479">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="231" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615541554539" />
-    <state width="1898" height="231" key="GridCell.Tab.0.center" timestamp="1615541554538">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616908443479" />
+    <state width="1898" height="264" key="GridCell.Tab.0.bottom" timestamp="1617112772621">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="231" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615541554538" />
-    <state width="1898" height="231" key="GridCell.Tab.0.left" timestamp="1615541554538">
+    <state width="1898" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617112772621" />
+    <state width="1898" height="264" key="GridCell.Tab.0.center" timestamp="1617112772621">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="231" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615541554538" />
-    <state width="1898" height="231" key="GridCell.Tab.0.right" timestamp="1615541554538">
+    <state width="1898" height="264" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617112772621" />
+    <state width="1898" height="264" key="GridCell.Tab.0.left" timestamp="1617112772621">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="231" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615541554538" />
-    <state width="1898" height="342" key="GridCell.Tab.1.bottom" timestamp="1615523709257">
+    <state width="1898" height="264" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617112772621" />
+    <state width="1898" height="264" key="GridCell.Tab.0.right" timestamp="1617112772621">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615523709257" />
-    <state width="1898" height="342" key="GridCell.Tab.1.center" timestamp="1615523709257">
+    <state width="1898" height="264" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617112772621" />
+    <state width="1898" height="342" key="GridCell.Tab.1.bottom" timestamp="1617112283765">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="342" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615523709257" />
-    <state width="1898" height="342" key="GridCell.Tab.1.left" timestamp="1615523709257">
+    <state width="1898" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617112283765" />
+    <state width="1898" height="342" key="GridCell.Tab.1.center" timestamp="1617112283765">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="342" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615523709257" />
-    <state width="1898" height="342" key="GridCell.Tab.1.right" timestamp="1615523709257">
+    <state width="1898" height="342" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617112283764" />
+    <state width="1898" height="342" key="GridCell.Tab.1.left" timestamp="1617112283764">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="342" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615523709257" />
+    <state width="1898" height="342" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617112283764" />
+    <state width="1898" height="342" key="GridCell.Tab.1.right" timestamp="1617112283765">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="342" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617112283765" />
   </component>
 </project>
