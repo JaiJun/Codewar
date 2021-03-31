@@ -24,18 +24,15 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:ChiaChun" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:ChiaChun/ChiaChun" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc4171db-1b0e-40d0-9678-1a868667e270" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/6 kyu/Decode the Morse code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7 kyu/Exes and Ohs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7 kyu/Mumbling.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Codewar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Codewar.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6 kyu/Persistent Bugger.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +85,7 @@
       <recent name="D:\Codewar\2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Decode the Morse code">
+  <component name="RunManager" selected="Python.Persistent Bugger">
     <configuration name="Decode the Morse code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Codewar" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -194,7 +191,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Reverse the bits in an integer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Persistent Bugger" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Codewar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -202,11 +199,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7 kyu" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6 kyu" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 kyu/Reverse the bits in an integer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6 kyu/Persistent Bugger.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,19 +214,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Hungarian Vowel Harmony (harder)" />
-      <item itemvalue="Python.Reverse the bits in an integer" />
       <item itemvalue="Python.Find the odd int" />
       <item itemvalue="Python.Exes and Ohs" />
       <item itemvalue="Python.Mumbling" />
       <item itemvalue="Python.Decode the Morse code" />
+      <item itemvalue="Python.Persistent Bugger" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Persistent Bugger" />
         <item itemvalue="Python.Decode the Morse code" />
         <item itemvalue="Python.Mumbling" />
         <item itemvalue="Python.Exes and Ohs" />
         <item itemvalue="Python.Find the odd int" />
-        <item itemvalue="Python.Reverse the bits in an integer" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616908260907</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Code_Test(3/30)">
+      <created>1617112898648</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617112898648</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -266,7 +270,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="ChiaChun/ChiaChun" />
                       </list>
                     </value>
                   </entry>
@@ -281,44 +285,53 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="CodeWar_Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="CodeWar_Test" />
+    <MESSAGE value="Code_Test(3/30)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code_Test(3/30)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1616908443479">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616908443479" />
-    <state width="1898" height="264" key="GridCell.Tab.0.bottom" timestamp="1617112772621">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1617200942622">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617112772621" />
-    <state width="1898" height="264" key="GridCell.Tab.0.center" timestamp="1617112772621">
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1617200942622" />
+    <state width="1898" height="264" key="GridCell.Tab.0.bottom" timestamp="1617204929150">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="264" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617112772621" />
-    <state width="1898" height="264" key="GridCell.Tab.0.left" timestamp="1617112772621">
+    <state width="1898" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617204929150" />
+    <state width="1898" height="264" key="GridCell.Tab.0.center" timestamp="1617204929150">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="264" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617112772621" />
-    <state width="1898" height="264" key="GridCell.Tab.0.right" timestamp="1617112772621">
+    <state width="1898" height="264" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617204929150" />
+    <state width="1898" height="264" key="GridCell.Tab.0.left" timestamp="1617204929150">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="264" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617112772621" />
-    <state width="1898" height="342" key="GridCell.Tab.1.bottom" timestamp="1617112283765">
+    <state width="1898" height="264" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617204929150" />
+    <state width="1898" height="264" key="GridCell.Tab.0.right" timestamp="1617204929150">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617112283765" />
-    <state width="1898" height="342" key="GridCell.Tab.1.center" timestamp="1617112283765">
+    <state width="1898" height="264" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617204929150" />
+    <state width="1898" height="342" key="GridCell.Tab.1.bottom" timestamp="1617200944895">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="342" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617112283764" />
-    <state width="1898" height="342" key="GridCell.Tab.1.left" timestamp="1617112283764">
+    <state width="1898" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617200944895" />
+    <state width="1898" height="342" key="GridCell.Tab.1.center" timestamp="1617200944894">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="342" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617112283764" />
-    <state width="1898" height="342" key="GridCell.Tab.1.right" timestamp="1617112283765">
+    <state width="1898" height="342" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617200944894" />
+    <state width="1898" height="342" key="GridCell.Tab.1.left" timestamp="1617200944894">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="342" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617112283765" />
+    <state width="1898" height="342" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617200944894" />
+    <state width="1898" height="342" key="GridCell.Tab.1.right" timestamp="1617200944895">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="342" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617200944895" />
+    <state x="552" y="183" width="816" height="605" key="Vcs.Push.Dialog.v2" timestamp="1617112944502">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="183" width="816" height="605" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1617112944502" />
   </component>
 </project>
